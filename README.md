@@ -33,6 +33,7 @@ Maven
 
 Apache Tomcat (embutido)
 
+```
 📂 Estrutura do Projeto
 src
  └── main
@@ -48,6 +49,7 @@ src
      │           └── UserService.java
      └── resources
          └── application.properties
+```
 🔗 Endpoints da API
 ➕ Criar usuário
 
